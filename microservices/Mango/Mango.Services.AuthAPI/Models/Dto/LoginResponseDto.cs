@@ -1,8 +1,10 @@
-﻿namespace Mango.Services.AuthAPI.Models.Dto
+﻿using Mango.Services.CouponAPI.Models.Dto;
+
+namespace Mango.Services.AuthAPI.Models.Dto
 {
     public class LoginResponseDto
     {
-        public string UserName { get; set; } = string.Empty;
+        public UserDto User { get; set; }
         public String Token { get; set; } = string.Empty;
     }
 }
