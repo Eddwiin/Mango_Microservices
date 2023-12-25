@@ -52,13 +52,12 @@ namespace Mango.Services.AuthAPI.Services
             if(!isValid) return userNotFoundDto;
 
             var token = _jwtTokenGenerator.GenerateToken(user);
-            UserDto userDto = new()
-            {
-                Email = user.Email,
-                ID = user.Id,
-                Name = user.Name,
-                PhoneNumber = user.PhoneNumber
-            };
+            UserDto userDto = UserDto.New
+                    .SetEmail(user.Email)
+                    .SetId(user.Id)
+                    .SetName(user.Name)
+                    .SetPhoneNumber(user.PhoneNumber)
+                    .Build();
 
             LoginResponseDto loginResponseDto = new LoginResponseDto()
             {
@@ -84,13 +83,13 @@ namespace Mango.Services.AuthAPI.Services
                 if(result.Succeeded) {
                     var userToReturn = _db.ApplicationUsers.First(u => u.UserName == registrationRequestDto.Email);
 
-                    UserDto userDto = new()
-                    {
-                        Email = userToReturn.Email,
-                        ID = userToReturn.Id,
-                        Name = userToReturn.Name,
-                        PhoneNumber = userToReturn.PhoneNumber
-                    };
+        
+                    UserDto userDto = UserDto.New
+                        .SetEmail(userToReturn.Email)
+                        .SetId(userToReturn.Id)
+                        .SetName(userToReturn.Name)
+                        .SetPhoneNumber(userToReturn.PhoneNumber)
+                        .Build();
 
                     return "";
                 } else {
