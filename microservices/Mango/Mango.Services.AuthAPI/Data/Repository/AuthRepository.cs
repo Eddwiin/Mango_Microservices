@@ -14,7 +14,7 @@ namespace Mango.Services.AuthAPI.Data.Repository
 
         public IdentityUser FindUserByNameAndPassword(string name, string password)
         {
-
+            return new IdentityUser();
         }
 
         public void SaveUser()

@@ -7,13 +7,13 @@ namespace Mango.Services.AuthAPI.Controllers
     public class AuthAPIController : ControllerBase
     {
         [HttpPost("register")]
-        public async Task<IActionResult> Register()
+        public IActionResult Register()
         {
             return Ok();
         }
 
         [HttpPost("login")]
-        public async Task<IActionResult> Login()
+        public IActionResult Login()
         {
             return Ok();
         }

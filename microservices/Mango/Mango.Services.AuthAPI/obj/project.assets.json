@@ -4480,26 +4480,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo_22\\.nuget\\packages\\": {}
+    "/home/maguran/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo_22\\Documents\\Perso\\Courses\\.NET Core Microservices - The Complete Guide (.NET 8 MVC)\\microservices\\Mango\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj",
+      "projectUniqueName": "/home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.AuthAPI/Mango.Services.AuthAPI.csproj",
       "projectName": "Mango.Services.AuthAPI",
-      "projectPath": "C:\\Users\\Lenovo_22\\Documents\\Perso\\Courses\\.NET Core Microservices - The Complete Guide (.NET 8 MVC)\\microservices\\Mango\\Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj",
-      "packagesPath": "C:\\Users\\Lenovo_22\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo_22\\Documents\\Perso\\Courses\\.NET Core Microservices - The Complete Guide (.NET 8 MVC)\\microservices\\Mango\\Mango.Services.AuthAPI\\obj\\",
+      "projectPath": "/home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.AuthAPI/Mango.Services.AuthAPI.csproj",
+      "packagesPath": "/home/maguran/.nuget/packages/",
+      "outputPath": "/home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.AuthAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lenovo_22\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/maguran/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4572,7 +4570,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
