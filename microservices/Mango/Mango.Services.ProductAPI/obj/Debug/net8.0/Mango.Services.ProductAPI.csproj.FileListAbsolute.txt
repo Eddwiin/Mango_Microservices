@@ -1,11 +1,3 @@
-/home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/obj/Debug/net8.0/Mango.Services.ProductAPI.csproj.AssemblyReference.cache
-/home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/obj/Debug/net8.0/Mango.Services.ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
-/home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/obj/Debug/net8.0/Mango.Services.ProductAPI.AssemblyInfoInputs.cache
-/home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/obj/Debug/net8.0/Mango.Services.ProductAPI.AssemblyInfo.cs
-/home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/obj/Debug/net8.0/Mango.Services.ProductAPI.csproj.CoreCompileInputs.cache
-/home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/obj/Debug/net8.0/Mango.Services.ProductAPI.MvcApplicationPartsAssemblyInfo.cs
-/home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/obj/Debug/net8.0/Mango.Services.ProductAPI.MvcApplicationPartsAssemblyInfo.cache
-/home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/obj/Debug/net8.0/Mango.Services.ProductAPI.sourcelink.json
 /home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/bin/Debug/net8.0/appsettings.Development.json
 /home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/bin/Debug/net8.0/appsettings.json
 /home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/bin/Debug/net8.0/Mango.Services.ProductAPI
@@ -124,6 +116,14 @@
 /home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
 /home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/obj/Debug/net8.0/Mango.Services.ProductAPI.csproj.AssemblyReference.cache
+/home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/obj/Debug/net8.0/Mango.Services.ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/obj/Debug/net8.0/Mango.Services.ProductAPI.AssemblyInfoInputs.cache
+/home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/obj/Debug/net8.0/Mango.Services.ProductAPI.AssemblyInfo.cs
+/home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/obj/Debug/net8.0/Mango.Services.ProductAPI.csproj.CoreCompileInputs.cache
+/home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/obj/Debug/net8.0/Mango.Services.ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+/home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/obj/Debug/net8.0/Mango.Services.ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+/home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/obj/Debug/net8.0/Mango.Services.ProductAPI.sourcelink.json
 /home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/obj/Debug/net8.0/staticwebassets.build.json
 /home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/obj/Debug/net8.0/staticwebassets.development.json
 /home/maguran/Documents/Perso/Project/Mango_Microservices/microservices/Mango/Mango.Services.ProductAPI/obj/Debug/net8.0/staticwebassets/msbuild.Mango.Services.ProductAPI.Microsoft.AspNetCore.StaticWebAssets.props
